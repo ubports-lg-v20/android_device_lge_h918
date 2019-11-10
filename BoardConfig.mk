@@ -22,7 +22,7 @@ DEVICE_PATH := device/lge/h918
 TARGET_OTA_ASSERT_DEVICE := h918,elsa
 
 # Kernel
-TARGET_KERNEL_CONFIG := lineageos_h918_defconfig
+TARGET_KERNEL_CONFIG := lineageos_h918_halium_defconfig
 
 # Properties
 TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
