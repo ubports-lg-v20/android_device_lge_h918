@@ -5,3 +5,7 @@
 # Radio
 ro.telephony.default_network=9
 telephony.lteOnGsmDevice=1
+
+# Unlock fps limit
+# debug.egl.swapinterval=0
+# qemu.hw.mainkeys=1
